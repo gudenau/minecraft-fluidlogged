@@ -1,0 +1,3 @@
+{
+  "commands.gud_fluidlogged.getfluid.success": "The fluid at %s, %s, %s is %s with a level of %s and is stored as %s with a level of %s"
+}
